@@ -1,0 +1,5 @@
+This is a bot designed to help user to buy the product from the available items
+The bot welcomes you and then asks you to select the product according to users wish . 
+Given  a set of collection of products of facewashes and other skin care products.
+The bot gives you list of skin care products available of our collection which are top branded. when you selected the product the bot itself takes all the branded products on the wing you selected and stores in a dictionary. And displays the list of your required products to choose between the brands
+The bot also greets you with thank you note at the ending.
