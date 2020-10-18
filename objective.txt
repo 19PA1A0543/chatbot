@@ -1,0 +1,3 @@
+Hello!we are here to help u.At starting our chat bot welcomes you .After that our chatbot helps you to know about the skincare prouducts and it also hepls you to know the the best brands of your favouraite skincare prouduct.
+As you enter it shows you all the required prouducts in skincare.it asks you to select your favourite prouduct to show the top brands from your selected product.
+As you select the product it shows you all the top brands from your selected prouduct.This is how our chatbot helps you.After it finishes showing you the top brands it says you thank you at the end.
